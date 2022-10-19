@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: East Dorset Bee Keepers Association
-image: /img/home-jumbotron.jpg
+image: /img/banner.jpg
 heading: Great coffee with a conscience
 subheading: Supporting bees and bee keeping
 mainpitch:
