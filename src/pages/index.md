@@ -5,14 +5,14 @@ image: /img/banner.jpg
 heading: What we do
 subheading: Supporting bees and bee keeping
 mainpitch:
-  title: Why join an association
+  title: Why join an association?
   description: |
     It's nice to have support from other bee keepers.
 description: Some of this stuff
 intro:
   blurbs:
     - image: /img/honeybee.jpg
-      text: >
+      text: |
         The East Dorset Beekeepers Association has a wealth of
                     advice to offer both new and well-seasoned bee keepers.
                  Please use our
@@ -20,17 +20,16 @@ intro:
                     questions
     - image: ../img/social/facebook.svg
       text: >
-        We are on Facebook and we also use a few WhatsApp channels
-        to give members a discussion forum for any problems arising
-        with their bees.
+        We are on Facebook and we also use a few WhatsApp channels to give
+        members a discussion forum for any problems arising with their bees.
     - image: /img/honeybee.jpg
-      text: >
+      text: |
         We are always happy to welcome new members - many may be new
                     to bee-keeping while others will be seasoned-pro's.
     - image: /img/honeybee.jpg
-      text: >
-       Our members love to share their passion for all things
-                    'bee'.
+      text: |
+        Our members love to share their passion for all things
+                     'bee'.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
