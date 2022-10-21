@@ -1,19 +1,22 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+<!--StartFragment-->
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+<p>East Dorset Beekeepers Association tries to help its members in a number of ways:
+<li>by organising training whatever the level of experience,</li>
+<li>orgainising a programme of indoor meetings in the winter (either in person or on zoom)</li>
+<li>practical demonstrations at our apiary in the open season.</li>
+<li>providing a platform where beekeepers can meet to discuss, ask questions and follow up their common interest. (through facebook and whatsapp)</li>
+</p>
+<p>EDBKA is affiliated to the British Beekeepers Association and Dorset County Beekeepers Association. As a Full Member of EDBKA you will be allocated a BBKA membership number and recieve their monthly magazine, Dorset BKA's <em>Honeycraft</em> and our own quarterly newsletter.</p>
+<p>We have an apiary at West Moors where we carry out training and demonstrations and where members will have every opportunity to learn or finetune their bee-handling and hive management.</p>
+<p>New members will be encouraged to attend our six-week training course (next running in February and March 2023). These classroom sessions are followed by practical bee handling workshops at our apiary. We have a dedicated WhatsApp group for beginners.</p>
+<p>The Association possess two honey extractors which members can borrow for a modest charge to enable them to extract their honey crop.</p>
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+<p>To join EDBKA <a href="./membership">click</a> here.</p>
+<p>If you need any questions answered then please <a href="./contact">contact us</a></p>
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+<!--EndFragment-->
