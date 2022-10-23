@@ -18,7 +18,7 @@ intro:
                  Please use our
                     contact page to send us any specific
                     questions
-    - image: ../img/social/facebook.svg
+    - image: /img/facebook_logo.png
       text: >
         We are on Facebook and we also use a few WhatsApp channels
         to give members a discussion forum for any problems arising
@@ -29,8 +29,7 @@ intro:
                     to bee-keeping while others will be seasoned-pro's.
     - image: /img/honeybee.jpg
       text: >
-       Our members love to share their passion for all things
-                    'bee'.
+       Our members love to share their passion for all things 'bee'.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
